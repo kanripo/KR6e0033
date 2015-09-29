@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 漸備一切智德經
+#+DATE: 2015-09-28 22:55:50.171554
+#+PROPERTY: JUAN 0
